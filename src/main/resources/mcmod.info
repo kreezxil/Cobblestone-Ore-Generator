@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cobblestoneoregen",
+  "name": "Cobblestone Ore Generator",
+  "description": "Generator worldgen ores in a cobblestone generator.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kreezxil"],
+  "credits": "gothic_mike for abandoning his mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
